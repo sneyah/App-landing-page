@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/app-landing-page.git
+   git clone https://github.com/sneyah/app-landing-page.git
 2. **Navigate to the project directory:**
    ```bash
    cd app-landing-page

@@ -25,5 +25,5 @@ To run this project locally, follow these steps:
    open index.html
 
 
-##Figma Design Reference
+## Figma Design Reference
 The design of this landing page is based on a Figma design. You can view the reference design here(https://www.figma.com/design/5P8i5dnGiQfWvYMwSPajxk/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=1-29&t=BYYY04KTmDG3vvn6-0)
